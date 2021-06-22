@@ -1,2 +1,2 @@
 # CStoreMediaEngineKit
-CStoreMediaEngineKit仓库地址
+CStoreMediaEngineKit cocoapod
